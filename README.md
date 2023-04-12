@@ -58,7 +58,7 @@ The stickyTop program uses the following libraries:
 
 ## License 
 
-The code is licensed under "CC BY-SA 2.0 FR", 
-but the icon of the compiled file is private and cannot be reused."
+The code is licensed under "CC BY-SA 2.0 FR"\
+but the icon of the compiled file is private and cannot be reused.
 
 For more information, see https://creativecommons.org/licenses/by-sa/2.0/fr/
